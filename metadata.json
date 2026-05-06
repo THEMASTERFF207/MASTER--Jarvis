@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Next",
+  "description": "A high-end personal AI assistant with a futuristic Glassmorphism UI, 3D animated orb, and voice-controlled intelligence powered by Gemini.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["voice_interaction", "ai_automation", "computer_vision"]
+}
